@@ -260,3 +260,4 @@ def integrations():
         "tiktok": {"available": False, "method": "Approved TikTok API access or permitted user-provided imports"},
         "manual_import": {"available": True, "endpoint": "/learn/text"}
     }
+    }
